@@ -10,12 +10,12 @@ help_text = "<b>❔ How to use this Bot</b>\n\n🔷 \n\n⭕"
 
 # About Message
 about_text = "<b>ABOUT ME\n\n" \
-             "○ Creator : <a href='https://t.me/Lalettan_Bakthan'>Lalettan Bakthan</a>\n" \
-             "○ Support : <a href='https://t.me/CodeXBotzSupport'>CodeXBotz Support</a>\n" \
+             "○ Creator : <a href='https://t.me/soonbotmaker0'>PRADARSH</a>\n" \
+             "○ Support : <a href='https://t.me/mittalbots'>MITTAL BOTS Support</a>\n" \
              "○ Language : <a href='https://www.python.org/'>Python 3</a>\n" \
              f"○ Library : <a href='https://github.com/pyrogram/pyrogram'>Pyrogram Asyncio {pyrogram_version}</a>\n" \
-             f"○ Add-on : <a href='https://github.com/rahulps1000/pyropatch'>Pyropatch {pyropatch_version}</a>\n" \
-             "○ Channel : <a href='https://t.me/CodeXBotz'>Code 𝕏 Botz</a></b>"
+             f"○ Add-on : <a href='https://github.com/mittalbots/pyropatch'>Pyropatch {pyropatch_version}</a>\n" \
+             "○ Channel : <a href='https://t.me/mittalbots'>MITTAL BOTS</a></b>"
 
 # Already Forwarding Message
 already_forwarding_text = "<b>Bot is Already Forwarding files. Please Try after It is Completed.</b>"
